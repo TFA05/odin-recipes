@@ -1,3 +1,4 @@
+# odin-recipes
 A website I made following The Odin Project using only HTML.
 
 It was my first time using git and GitHub which made it a valuable learning experience on making a website using a VCS. 
