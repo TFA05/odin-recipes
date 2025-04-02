@@ -1,0 +1,38 @@
+.sastojci{
+    color: purple;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: left;
+}
+
+.uputstvo{
+    color:tomato;
+    font-weight: bold;
+}
+
+#koraci{
+    background-color: tomato;
+}
+
+#sastojci{
+    background-color: purple;
+}
+
+.opis{
+    text-align: center;
+    background-color: green;
+}
+
+.opis.naslov{
+    background-color: white;
+}
+
+#strana{
+    text-align: center;
+}
+
+.slika{
+    display: block;
+    margin: auto;
+    width: 25%;
+    height: auto;
+}
